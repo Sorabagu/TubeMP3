@@ -17,4 +17,4 @@ Windows 10 ou ultérieur
 
 ## Téléchargement
 
-Lien TubeMP3 : [setup_tubemp3_1_0_x](https://github.com/Sorabagu/TubeMP3/releases/download/setup/setup_tubemp3_1_0_2.exe)
+Lien TubeMP3 : [setup_tubemp3_1_0_x](https://github.com/Sorabagu/TubeMP3/releases/download/setup/setup_tubemp3_1_0_3.exe)
