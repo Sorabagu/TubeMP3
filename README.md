@@ -1,5 +1,5 @@
-
 # TubeMP3 - Téléchargeur d'audio YouTube
+![TubeMP3](https://img.shields.io/badge/version-1.0.3-blue) ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 
 **TubeMP3** est un logiciel simple et efficace permettant de télécharger l'audio des vidéos YouTube au format MP3
 
